@@ -9,7 +9,7 @@ public class Player {
         this.name = name;
         this.address = address;
         this.cardNumber = cardName;
-        this.
+
 
     }
     public String toString() {
