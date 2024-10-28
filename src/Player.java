@@ -13,6 +13,6 @@ public class Player {
 
     }
     public String toString() {
-        return "Player: " + surname + name + "," + "address: " + address + "," + "card: " + cardNumber;
+        return "Player: " + surname + name + "," + "address : " + address + "," + "card: " + cardNumber;
     }
 }
